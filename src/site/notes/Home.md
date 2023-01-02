@@ -11,13 +11,13 @@ Hello，欢迎来到我的博客。
 
 ## 导航
 
-[[01.Guide/coding\|技术总结]]：编程技术相关的技术实践与学习总结
+[[01.Guide/coding\|技术总结]]
 
-[[01.Guide/tools\|工具使用]]：基础工具的使用方法
+[[01.Guide/tools\|工具使用]]
 
-[[01.Guide/efficiency\|效率提升]]：可以提升效率的 tips 或经验总结
+[[01.Guide/efficiency\|效率提升]]
 
-[[01.Guide/life\|生活随笔]]：日常生活与情绪输出
+[[01.Guide/life\|生活随笔]]
 
 ## 说明
 
