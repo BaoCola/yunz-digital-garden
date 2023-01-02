@@ -14,11 +14,11 @@ Hello，欢迎来到我的博客。
 
 [[01.Guide/coding\|技术总结]]
 
-[[01.Guide/life\|生活随笔]]
-
 [[01.Guide/tools\|工具使用]]
 
 [[01.Guide/efficiency\|效率提升]]
+
+[[01.Guide/life\|生活随笔]]
 
 ## 说明
 
