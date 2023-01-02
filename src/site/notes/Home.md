@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":"gardenEntry"}
+{"aliases":"Home","date created":"2022-12-21 Wed 23:21:51","date modified":"2023-01-02 Mon 16:03:41","dg-home":true,"dg-publish":true,"permalink":"/home/","tags":"gardenEntry","dgPassFrontmatter":true}
 ---
 
-
-# Home
 
 Hello，欢迎来到我的博客。
 
