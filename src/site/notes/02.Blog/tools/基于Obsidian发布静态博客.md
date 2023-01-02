@@ -1,5 +1,5 @@
 ---
-{"aliases":["基于Obsidian发布静态博客","基于Obsidian"],"category":"tools","tags":["obsidian","digital garden"],"status":"init","link":"NA","date created":"2022-12-27 Tue 23:02:54","date modified":"2023-01-02 Mon 16:45:40","dg-publish":true,"permalink":"/02-blog/tools/obsidian/","dgPassFrontmatter":true}
+{"aliases":["基于Obsidian发布静态博客","基于Obsidian"],"category":"tools","tags":["obsidian","digital garden"],"status":"publish","link":"NA","date created":"2022-12-27 Tue 23:02:54","date modified":"2023-01-02 Mon 19:40:56","dg-publish":true,"permalink":"/02-blog/tools/obsidian/","dgPassFrontmatter":true}
 ---
 
 
@@ -18,7 +18,7 @@
 
 得益于 Obsidian 出色的基础设计和活跃的社区环境，提供了大量的开源插件可以实现各种自定义的功能。基于两个月的调教，自我感觉现在 ob 的编辑体验已经超过 typora，当然表格编辑除外。（我个人不太喜欢在 md 文章中插入很多表格，所以其实也无所谓。）
 
-Obsidian 的使用后面我会单独再写一篇文章：[[基于Obsidian构建个人知识库\|基于Obsidian构建个人知识库]]。（如果点进去没有文章，说明我还没写好😄）
+Obsidian 的使用后面我会单独再写一篇文章：[[02.Blog/tools/基于Obsidian构建个人知识库\|基于Obsidian构建个人知识库]]。（如果点进去没有文章，说明我还没写好😄）
 
 ## [obsidian-digital-garden](https://github.com/oleeskild/obsidian-digital-garden)
 
