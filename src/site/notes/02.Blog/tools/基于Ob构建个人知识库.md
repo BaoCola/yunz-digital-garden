@@ -1,5 +1,5 @@
 ---
-{"aliases":["基于Obsidian构建个人知识库"],"category":"tools","tags":["tools","obsidian","知识库"],"status":"publish","link":"NA","date created":"2023-01-02 Mon 19:33:43","date modified":"2023-01-05 Thu 23:03:07","dg-publish":true,"permalink":"/02-blog/tools/ob/","dgPassFrontmatter":true}
+{"aliases":["基于Ob构建个人知识库"],"category":"tools","tags":["tools","obsidian","知识库"],"status":"publish","link":"NA","date created":"2023-01-02 Mon 19:33:43","date modified":"2023-01-05 Thu 23:03:07","dg-publish":true,"permalink":"/02-blog/tools/ob/","dgPassFrontmatter":true}
 ---
 
 
