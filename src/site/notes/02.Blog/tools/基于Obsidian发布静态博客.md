@@ -21,7 +21,7 @@
 
 得益于 Obsidian 出色的基础设计和活跃的社区环境，提供了大量的开源插件可以实现各种自定义的功能。基于两个月的调教，自我感觉现在 ob 的编辑体验已经超过 typora，当然表格编辑除外。（我个人不太喜欢在 md 文章中插入很多表格，所以其实也无所谓。）
 
-Obsidian 的使用后面我会单独再写一篇文章：[[02.Blog/tools/基于Obsidian构建个人知识库\|基于Obsidian构建个人知识库]]。（如果点进去没有文章，说明我还没写好😄）
+Obsidian 的使用后面我会单独再写一篇文章：[[02.Blog/tools/基于Ob构建个人知识库\|基于Ob构建个人知识库]]。（如果点进去没有文章，说明我还没写好😄）
 
 ## [obsidian-digital-garden](https://github.com/oleeskild/obsidian-digital-garden)
 
