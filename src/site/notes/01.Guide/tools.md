@@ -1,10 +1,5 @@
-```dataviewjs
-for (let status of dv.pages("#tools").groupBy(p => p.status)) {
-	dv.header(3, status.key);
-	dv.table(["title", "date created", "tags"],
-		status.rows
-			.sort(s => s["date created"], 'desc')
-			.map(s => [s.file.link, s["date created"], s.tags])
-		)
-}
-```
+---
+{"aliases":"tools","date created":"2022-12-23 Fri 21:05:29","date modified":"2023-01-03 Tue 19:29:27","dg-publish":true,"permalink":"/01-guide/tools/","dgPassFrontmatter":true}
+---
+
+
