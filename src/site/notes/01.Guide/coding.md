@@ -1,4 +1,10 @@
----
-{"aliases":"coding","date created":"2022-12-22 Thu 00:20:22","date modified":"2022-12-24 Sat 23:24:04","dg-publish":true,"permalink":"/01-guide/coding/","dgPassFrontmatter":true}
----
-
+```dataviewjs
+for (let status of dv.pages("#coding").groupBy(p => p.status)) {
+	dv.header(3, status.key);
+	dv.table(["title", "date created", "tags"],
+		status.rows
+			.sort(s => s["date created"], 'desc')
+			.map(s => [s.file.link, s["date created"], s.tags])
+		)
+}
+```
