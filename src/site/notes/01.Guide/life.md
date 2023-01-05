@@ -1,10 +1,4 @@
-```dataviewjs
-for (let status of dv.pages("#life").groupBy(p => p.status)) {
-	dv.header(3, status.key);
-	dv.table(["title", "date created", "tags"],
-		status.rows
-			.sort(s => s["date created"], 'desc')
-			.map(s => [s.file.link, s["date created"], s.tags])
-		)
-}
-```
+---
+{"aliases":"life","date created":"2022-12-22 Thu 21:16:19","date modified":"2023-01-05 Thu 23:07:03","dg-publish":true,"permalink":"/01-guide/life/","dgPassFrontmatter":true}
+---
+
