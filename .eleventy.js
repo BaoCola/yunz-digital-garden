@@ -1,4 +1,4 @@
-const slugify = require("@sindresorhus/slugify");
+const slugify = require("uslug");
 const markdownIt = require("markdown-it");
 const fs = require('fs');
 const matter = require('gray-matter');
