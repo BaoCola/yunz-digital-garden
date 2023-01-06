@@ -38,8 +38,19 @@
 
 ## 插件列表
 
-- Dataview
-- Home Page
-- Tasks
-- Checklist
-- Calendar
+- Dataview 笔记数据可视化
+- Home Page 主页插件
+- Tasks + Checklist 任务跟踪
+- Calendar 日历插件，可以和 Templater、Memos 配合使用
+- Memos 随手日记
+- Templater + QuickAdd 快捷模版
+- Linter md 文档自动格式化
+- Admonition md 文档 tips 增强
+- Clear unused images 自动清理未使用图片（typora 看哭了）
+- Digital garden ob 文档发布
+
+## 模板
+
+[[04.Res/template/t-blog\|博客模板]]
+
+[[04.Res/template/t-diary\|日记模板]]
