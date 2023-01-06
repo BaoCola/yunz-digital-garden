@@ -1,5 +1,5 @@
 ---
-{"aliases":["基于Obsidian发布静态博客"],"category":"tools","tags":["tools","obsidian","digital garden"],"status":"publish","link":"NA","date created":"2022-12-27 Tue 23:02:54","date modified":"2023-01-03 Tue 19:11:03","dg-publish":true,"permalink":"/02-blog/tools/obsidian/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02.Blog/tools/基于Obsidian发布静态博客/"}
 ---
 
 
