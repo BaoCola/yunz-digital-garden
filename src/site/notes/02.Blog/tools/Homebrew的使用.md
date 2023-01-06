@@ -1,5 +1,5 @@
 ---
-{"aliases":["Homebrew的使用","Homebrew"],"category":"tools","tags":["tools","macos"],"status":"writing","link":"NA","date created":"2022-12-23 Fri 21:04:57","date modified":"2023-01-03 Tue 19:13:10","dg-publish":true,"permalink":"/02-blog/tools/homebrew/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02.Blog/tools/Homebrew的使用/"}
 ---
 
 
