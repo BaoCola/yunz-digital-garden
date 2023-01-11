@@ -46,11 +46,23 @@ afterEvaluate {
 ## scope
 
 maven-publish 插件对生成 pom 文件中依赖的 scope 设置了一定的规则：
-- implement 依赖对应的 scope 为 runtime；
+- implementation 依赖对应的 scope 为 runtime；
 - api 依赖对应的 scope 为 compile；
 
-这里简单理解一下安卓的依赖传递机制：  
+## 安卓的依赖传递
+
+这里简单理解一下安卓的依赖传递机制 [^3]： 
+
+```ad-info
+implementation：Gradle 会将依赖项添加到编译类路径，并将依赖项打包到构建输出。不过，当您的模块配置 `implementation` 依赖项时，会让 Gradle 了解您不希望该模块在编译时将该依赖项泄露给其他模块。也就是说，其他模块只有在运行时才能使用该依赖项。
+
+api：Gradle 会将依赖项添加到编译类路径和构建输出。当一个模块包含 `api` 依赖项时，会让 Gradle 了解该模块要以传递方式将该依赖项导出到其他模块，以便这些模块在运行时和编译时都可以使用该依赖项。
+```
+
 APK A 依赖 SDK S，SDK 依赖第三方软件 T，SDK 软件发布时三方依赖不会被打包到 aar 包中（fat-aar 可以将依赖直接打到包里），只是会将需要的依赖信息写入到关联的 pom 文件发布。APK 在依赖 SDK 时会使用 pom 文件下载相关依赖，发布最终的安装包。
+
+结合上面所述的 maven-publish 生成 pom 文件 scope 的规则，implementation 对应 scope 为 runtime，自然无法被 APK 编译时所使用，而 api 对应 scope 为 compile，编译和运行时均可以被使用。
 
 [^1]: https://juejin.cn/post/7017608469901475847
 [^2]: https://developer.android.com/studio/build/maven-publish-plugin?hl=zh-cn
+[^3]: https://developer.android.com/studio/build/dependencies?hl=zh-cn
