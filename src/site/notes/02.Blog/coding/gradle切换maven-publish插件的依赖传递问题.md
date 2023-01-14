@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.Blog/coding/gradle切换maven-publish插件的依赖传递问题/","tags":["coding，gradle","mavem-publish"]}
+{"dg-publish":true,"permalink":"/02.Blog/coding/gradle切换maven-publish插件的依赖传递问题/","tags":["coding","gradle","mavem-publish"]}
 ---
 
 
