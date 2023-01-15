@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/02.Blog/tools/oh-my-zsh on mac/"}
+{"dg-publish":true,"permalink":"/02.Blog/tools/oh-my-zsh on mac/","tags":["tools","mac","oh-my-zsh"]}
 ---
 
 
-<< [[01.Guide/tools\|tools]] | [[2023-01-08_Sun\|2023-01-08_Sun]]
+<< [[01.Guide/tools\|tools]] | [[03.Diary/2023-01-08_Sun\|2023-01-08_Sun]]
 
 > Humanity is acquiring all the right technology for all the wrong reasons.  
 > — <cite>Buckminster Fuller</cite>
