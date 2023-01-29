@@ -1,5 +1,5 @@
 ---
-{"aliases":"Home","date created":"2022-12-21 Wed 23:21:51","date modified":"2023-01-02 Mon 17:05:58","dg-home":true,"dg-publish":true,"permalink":"/home/","tags":"gardenEntry","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/Home/","tags":["gardenEntry"]}
 ---
 
 
@@ -18,6 +18,8 @@ Hello，欢迎来到我的博客。
 [[01.Guide/efficiency\|效率提升]]
 
 [[01.Guide/life\|生活随笔]]
+
+[[01.Guide/reading\|读书笔记]]
 
 ## 说明
 
