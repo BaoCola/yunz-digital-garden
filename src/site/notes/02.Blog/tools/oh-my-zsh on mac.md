@@ -51,4 +51,4 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $ZSH_CUSTOM/p
 plugins=(git brew autojump zsh-autosuggestions zsh-syntax-highlighting)
 ```
 
-![Pasted image 20230130233732](https://github.com/Yunz93/PicRepo/blob/main/image/Pasted%20image%2020230130233732.png?raw=true)
+![Pasted image 20230130233732](https://github.com/Yunz93/PicRepo/raw/main/image/Pasted%20image%2020230130233732.png)
