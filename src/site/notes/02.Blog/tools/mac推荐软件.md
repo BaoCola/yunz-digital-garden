@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/02.Blog/tools/mac推荐软件/"}
+{"aliases":["mac推荐软件"],"category":"tools","tags":["tools, mac软件"],"status":"publish","link":"NA","date created":"2023-01-07 Sat 22:47:07","date modified":"2023-02-01 Wed 23:26:37","dg-publish":true,"permalink":"/02.Blog/tools/mac推荐软件/","dgPassFrontmatter":true}
 ---
 
+
+#mac软件
 
 << [[01.Guide/tools\|tools]] | [[03.Diary/2023-01-07_Sat\|2023-01-07_Sat]]
 
@@ -50,6 +52,14 @@
 
 价格：免费  
 优点：提供了新建文件、打开常用文件夹以及打开常用软件等功能，类似于 windows 平台的 Listary 软件。
+
+### Bartender4
+
+> MacOS 的状态栏真是逊爆了，加上新机型的刘海会遮挡，经常会怀疑有些软件是不是打开了。
+
+价格：¥89  
+优点：提供类似 windows 的小抽屉来隐藏状态栏图标，贵是贵了一点。  
+![image.png](https://github.com/Yunz93/PicRepo/raw/main/image/20230201232516.png)
 
 ### ClashX
 
