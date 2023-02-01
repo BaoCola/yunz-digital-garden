@@ -55,10 +55,11 @@
 
 ### Bartender4
 
-> MacOS 的状态栏真是逊爆了，加上新机型的刘海会遮挡，经常会怀疑有些软件是不是打开了。
+> MacOS 的状态栏真是逊爆了，加上新机型的刘海会遮挡，经常会怀疑有些软件是不是正常打开了。
 
 价格：¥89  
 优点：提供类似 windows 的小抽屉来隐藏状态栏图标，贵是贵了一点。  
+
 ![image.png](https://github.com/Yunz93/PicRepo/raw/main/image/20230201232516.png)
 
 ### ClashX
