@@ -29,4 +29,4 @@ Hello，欢迎来到我的博客。
 
 [[Blog/Share/基于Obsidian发布静态博客\|本网站是如何构建的？]]
 
-[[Inbox/life/关于我\|关于我]]
+[[Blog/Life/关于我\|关于我]]
