@@ -1,4 +1,4 @@
-const slugify = require("uslug");
+const slugify = require("@sindresorhus/slugify");
 
 function headerToId(heading) {
     var slugifiedHeader = slugify(heading);
