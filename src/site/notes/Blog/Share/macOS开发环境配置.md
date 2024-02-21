@@ -30,4 +30,4 @@ idea、vscode 下载安装包安装即可。
 
 ### 终端
 
-[[Inbox/tools/oh-my-zsh on mac\|oh-my-zsh on mac]]
+[[Blog/Share/oh-my-zsh on mac\|oh-my-zsh on mac]]
