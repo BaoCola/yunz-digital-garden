@@ -7,5 +7,6 @@
 
 - [[Blog/Life/装修总结\|装修总结]]
 - [[Blog/Life/2023 年的新年礼物\|2023 年的新年礼物]]
+- [[Blog/Life/关于我\|关于我]]
 
 { .block-language-dataview}
