@@ -1,5 +1,5 @@
 ---
-{"aliases":"Home","date created":"2022-12-21 Wed 23:21:51","date modified":"2024-02-21 Wed 19:47:58","dg-home":true,"dg-publish":true,"permalink":"/Home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"aliases":"Home","date created":"2022-12-21 Wed 23:21:51","date modified":"2024-02-25 Sun 00:13:38","dg-home":true,"dg-publish":true,"permalink":"/Home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 
@@ -11,19 +11,13 @@ Hello，欢迎来到我的博客。
 
 ## 导航
 
-[[Guide/Creation\|Creation]]
+[[Guide/Learn\|技术学习]]
 
-[[Guide/Share\|Share]]
+[[Guide/Share\|一些分享]]
 
-[[Guide/Thought\|Thought]]
+[[Guide/Life\|我的生活]]
 
-[[Guide/Life\|Life]]
-
-[[Guide/Learn\|Learn]]
-
-[[Guide/Weekly\|Weekly]]
-
-[[Guide/Code\|Code]]
+[[Guide/Weekly\|可乐周刊]]
 
 ## 说明
 
