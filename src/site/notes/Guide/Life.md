@@ -7,7 +7,7 @@
 
 - [[Blog/Life/2023 年的新年礼物\|2023 年的新年礼物]]
 - [[Blog/Life/关于我\|关于我]]
-- [[Blog/Life/装修总结\|装修总结]]
 - [[Blog/Life/大马游记\|大马游记]]
+- [[Blog/Life/新家装修总结\|新家装修总结]]
 
 { .block-language-dataview}
