@@ -5,6 +5,6 @@
 
 ## 博文列表
 
-- [[Blog/Weekly/【可乐周刊】第1 期\|【可乐周刊】第1 期]]
+- [[Blog/Weekly/【可乐周刊】第 1 期\|【可乐周刊】第 1 期]]
 
 { .block-language-dataview}
