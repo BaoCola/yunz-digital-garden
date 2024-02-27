@@ -3,6 +3,6 @@
 ---
 
 
-- [[Blog/Weekly/【可乐周刊】第 1 期 发刊词\|【可乐周刊】第 1 期 发刊词]]
+- [[Blog/Weekly/【可乐周刊】第 1 期 - 新的开始\|【可乐周刊】第 1 期 - 新的开始]]
 
 { .block-language-dataview}
