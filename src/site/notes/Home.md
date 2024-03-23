@@ -1,5 +1,5 @@
 ---
-{"aliases":"Home","date created":"2022-12-21 Wed 23:21:51","date modified":"2024-02-25 Sun 00:13:38","dg-home":true,"dg-publish":true,"permalink":"/Home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"aliases":"Home","date created":"2022-12-21 Wed 23:21:51","date modified":"2024-03-23 Sat 14:48:51","dg-home":true,"dg-publish":true,"permalink":"/Home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 
@@ -10,6 +10,8 @@ Hello，欢迎来到我的博客。
 这里摘取了可公开发布的笔记内容，所以如果您发现有任何隐私相关或者不适宜公开发表的内容，请联系我，谢谢。
 
 ## 导航
+
+[[Guide/Creation\|工具制造]]
 
 [[Guide/Learn\|技术学习]]
 
