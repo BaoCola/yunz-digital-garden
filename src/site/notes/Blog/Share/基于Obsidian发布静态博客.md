@@ -1,5 +1,5 @@
 ---
-{"aliases":"基于Obsidian发布静态博客","category":"tools","tags":["obsidian"],"status":"published","link":"NA","date created":"2022-12-27 Tue 23:02:54","date modified":"2024-02-21 Wed 18:57:37","dg-publish":true,"permalink":"/Blog/Share/基于Obsidian发布静态博客/","dgPassFrontmatter":true}
+{"aliases":"基于Obsidian发布静态博客","category":"tools","tags":["obsidian"],"status":"published","link":"NA","date created":"2022-12-27 Tue 23:02:54","date modified":"2024-03-24 Sun 18:05:20","dg-publish":true,"permalink":"/Blog/Share/基于Obsidian发布静态博客/","dgPassFrontmatter":true}
 ---
 
 
@@ -17,7 +17,7 @@ Obsidian 的使用后面我会单独再写一篇文章：[[Blog/Share/基于Obsi
 
 ## [obsidian-digital-garden](https://github.com/oleeskild/obsidian-digital-garden)
 
-odg 是 [oleeskild](https://github.com/oleeskild) 提供的一个 ob 的博客发布插件，比官方的发布服务更优。
+ODG 是 [oleeskild](https://github.com/oleeskild) 提供的一个 ob 的博客发布插件，比官方的发布服务更优。
 
 有如下几个优点：
 - 保留本地知识库的结构，主题也可以同步，支持搜索、目录树、关系图谱等基础功能；
