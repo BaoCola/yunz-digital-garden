@@ -18,6 +18,7 @@
 ```
 
 ![Pasted image 20230204101620](https://github.com/Yunz93/PicRepo/raw/main/image/Pasted%20image%2020230204101620.png)  
+
 图床配置注意：
 - 分支默认为 `main`
 - 自定义域名为：`${repo}/raw/${branch}`，不然图片无法显示
