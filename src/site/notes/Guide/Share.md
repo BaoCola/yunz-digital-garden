@@ -13,5 +13,6 @@
 - [[Blog/Share/oh-my-zsh on mac\|oh-my-zsh on mac]]
 - [[Blog/Share/我的工作方法论\|我的工作方法论]]
 - [[Blog/Share/如何读书\|如何读书]]
+- [[Blog/Share/给 Obsidian Digital Garden 添加评论与统计功能\|给 Obsidian Digital Garden 添加评论与统计功能]]
 
 { .block-language-dataview}
