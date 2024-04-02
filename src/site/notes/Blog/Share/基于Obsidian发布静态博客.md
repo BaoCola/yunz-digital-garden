@@ -1,5 +1,5 @@
 ---
-{"aliases":"基于Obsidian发布静态博客","category":"tools","tags":["obsidian"],"status":"published","link":"NA","date created":"2022-12-27 Tue 23:02:54","date modified":"2024-03-24 Sun 18:05:20","dg-publish":true,"permalink":"/Blog/Share/基于Obsidian发布静态博客/","dgPassFrontmatter":true,"created":"2022-12-27 Tue 23:02:54","updated":"2024-03-24 Sun 18:05:20"}
+{"aliases":"基于Obsidian发布静态博客","category":"tools","tags":["obsidian"],"status":"published","link":"NA","date created":"2022-12-27 Tue 23:02:54","date modified":"2024-03-24 Sun 18:05:20","dg-publish":true,"permalink":"/Blog/Share/基于Obsidian发布静态博客/","dgPassFrontmatter":true,"created":"2022-12-27T23:02:54.000+08:00","updated":"2024-03-24T18:05:20.849+08:00"}
 ---
 
 
