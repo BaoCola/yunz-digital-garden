@@ -1,5 +1,5 @@
 ---
-{"aliases":"【可乐周刊】第 4 期 - AI写歌","category":"可乐周刊","tags":["AI写歌","浏览器插件","博客"],"status":"published","link":"NA","date created":"2024-03-24 Sun 17:45:01","date modified":"2024-03-24 Sun 21:46:22","dg-publish":true,"permalink":"/Blog/Weekly/【可乐周刊】第 4 期 - AI写歌/","dgPassFrontmatter":true}
+{"aliases":"【可乐周刊】第 4 期 - AI写歌","category":"可乐周刊","tags":["AI写歌","浏览器插件","博客"],"status":"published","link":"NA","date created":"2024-03-24 Sun 17:45:01","date modified":"2024-03-24 Sun 21:46:22","dg-publish":true,"permalink":"/Blog/Weekly/【可乐周刊】第 4 期 - AI写歌/","dgPassFrontmatter":true,"created":"2024-03-24 Sun 17:45:01","updated":"2024-03-24 Sun 21:46:22"}
 ---
 
 ![8520A42E-5F94-4CD3-86D0-83F895CEE21C](https://github.com/Yunz93/PicRepo/raw/main/image/%E9%97%BB%E5%A0%B0%E7%A0%81%E5%A4%B4%E8%90%BD%E6%97%A5.jpeg)
