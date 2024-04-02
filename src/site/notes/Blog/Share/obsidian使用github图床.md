@@ -1,5 +1,5 @@
 ---
-{"aliases":"obsidian使用github图床","category":"tools","tags":["obsidian","图床"],"status":"published","link":"NA","date created":"2023-02-02 Thu 22:30:15","date modified":"2024-02-21 Wed 20:00:28","dg-publish":true,"permalink":"/Blog/Share/obsidian使用github图床/","dgPassFrontmatter":true}
+{"aliases":"obsidian使用github图床","category":"tools","tags":["obsidian","图床"],"status":"published","link":"NA","date created":"2023-02-02 Thu 22:30:15","date modified":"2024-02-21 Wed 20:00:28","dg-publish":true,"permalink":"/Blog/Share/obsidian使用github图床/","dgPassFrontmatter":true,"created":"2023-02-02 Thu 22:30:15","updated":"2024-02-21 Wed 20:00:28"}
 ---
 
 
