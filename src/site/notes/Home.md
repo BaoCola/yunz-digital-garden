@@ -1,5 +1,5 @@
 ---
-{"aliases":"Home","date created":"2022-12-21 Wed 23:21:51","date modified":"2024-03-23 Sat 14:48:51","dg-home":true,"dg-publish":true,"permalink":"/Home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"aliases":"Home","date created":"2022-12-21 Wed 23:21:51","date modified":"2024-03-23 Sat 14:48:51","dg-home":true,"dg-publish":true,"permalink":"/Home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2022-12-21 Wed 23:21:51","updated":"2024-03-23 Sat 14:48:51"}
 ---
 
 
