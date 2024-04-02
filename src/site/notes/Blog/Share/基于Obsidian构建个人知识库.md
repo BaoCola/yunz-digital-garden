@@ -1,5 +1,5 @@
 ---
-{"aliases":"基于Obsidian构建个人知识库","category":"tools","tags":["obsidian","知识库"],"status":"published","link":"NA","date created":"2023-01-02 Mon 19:33:43","date modified":"2024-02-21 Wed 19:56:30","dg-publish":true,"permalink":"/Blog/Share/基于Obsidian构建个人知识库/","dgPassFrontmatter":true,"created":"2023-01-02 Mon 19:33:43","updated":"2024-02-21 Wed 19:56:30"}
+{"aliases":"基于Obsidian构建个人知识库","category":"tools","tags":["obsidian","知识库"],"status":"published","link":"NA","date created":"2023-01-02 Mon 19:33:43","date modified":"2024-02-21 Wed 19:56:30","dg-publish":true,"permalink":"/Blog/Share/基于Obsidian构建个人知识库/","dgPassFrontmatter":true,"created":"2023-01-02T19:33:43.000+08:00","updated":"2024-02-21T19:56:32.680+08:00"}
 ---
 
 关于 Obsidian 软件，在 [[Blog/Share/基于Obsidian发布静态博客\|基于Obsidian发布静态博客]] 中已有介绍，本文主要说明如何搭建自己的个人知识库。  
