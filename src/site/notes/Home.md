@@ -1,5 +1,5 @@
 ---
-{"aliases":"Home","date created":"2022-12-21 Wed 23:21:51","date modified":"2024-03-23 Sat 14:48:51","dg-home":true,"dg-publish":true,"permalink":"/Home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2022-12-21T23:21:51.000+08:00","updated":"2024-03-23T14:48:53.455+08:00"}
+{"aliases":"Home","date created":"2022-12-21 Wed 23:21:51","date modified":"2024-04-02 Tue 21:15:10","dg-home":true,"dg-publish":true,"permalink":"/Home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2022-12-21T23:21:51.000+08:00","updated":"2024-04-02T21:15:12.788+08:00"}
 ---
 
 
@@ -26,3 +26,5 @@ Hello，欢迎来到我的博客。
 [[Blog/Share/基于Obsidian发布静态博客\|本网站是如何构建的？]]
 
 [[Blog/Life/关于我\|关于我]]
+
+[RSS订阅](https://blog.yunz.me/feed.xml)
