@@ -1,5 +1,5 @@
 ---
-{"aliases":"NewBingTab - 新的一页","category":"Creation","tags":["浏览器插件"],"status":"published","link":"NA","date created":"2024-03-23 Sat 14:29:13","date modified":"2024-03-23 Sat 14:46:39","dg-publish":true,"permalink":"/Blog/Creation/NewBingTab - 新的一页/","dgPassFrontmatter":true}
+{"aliases":"NewBingTab - 新的一页","category":"Creation","tags":["浏览器插件"],"status":"published","link":"NA","date created":"2024-03-23 Sat 14:29:13","date modified":"2024-03-23 Sat 14:46:39","dg-publish":true,"permalink":"/Blog/Creation/NewBingTab - 新的一页/","dgPassFrontmatter":true,"created":"2024-03-23 Sat 14:29:13","updated":"2024-03-23 Sat 14:46:39"}
 ---
 
 
