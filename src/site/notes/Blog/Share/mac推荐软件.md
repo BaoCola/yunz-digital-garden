@@ -1,5 +1,5 @@
 ---
-{"aliases":"mac推荐软件","category":"tools","tags":["mac"],"status":"published","link":"NA","date created":"2023-01-07 Sat 22:47:07","date modified":"2024-02-21 Wed 19:59:54","dg-publish":true,"permalink":"/Blog/Share/mac推荐软件/","dgPassFrontmatter":true,"created":"2023-01-07 Sat 22:47:07","updated":"2024-02-21 Wed 19:59:54"}
+{"aliases":"mac推荐软件","category":"tools","tags":["mac"],"status":"published","link":"NA","date created":"2023-01-07 Sat 22:47:07","date modified":"2024-02-21 Wed 19:59:54","dg-publish":true,"permalink":"/Blog/Share/mac推荐软件/","dgPassFrontmatter":true,"created":"2023-01-07T22:47:07.000+08:00","updated":"2024-02-21T19:59:56.864+08:00"}
 ---
 
 
