@@ -1,5 +1,5 @@
 ---
-{"aliases":"Mac time machine系统备份到群晖NAS","category":"tools","tags":["tools","mac","nas"],"status":"published","link":"NA","date created":"2023-01-14 Sat 22:59:13","date modified":"2024-02-21 Wed 19:57:59","dg-publish":true,"permalink":"/Blog/Share/Mac time machine系统备份到群晖NAS/","dgPassFrontmatter":true}
+{"aliases":"Mac time machine系统备份到群晖NAS","category":"tools","tags":["tools","mac","nas"],"status":"published","link":"NA","date created":"2023-01-14 Sat 22:59:13","date modified":"2024-02-21 Wed 19:57:59","dg-publish":true,"permalink":"/Blog/Share/Mac time machine系统备份到群晖NAS/","dgPassFrontmatter":true,"created":"2023-01-14 Sat 22:59:13","updated":"2024-02-21 Wed 19:57:59"}
 ---
 
 
