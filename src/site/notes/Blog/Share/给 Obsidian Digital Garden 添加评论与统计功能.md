@@ -1,5 +1,5 @@
 ---
-{"aliases":"给 Obsidian Digital Garden 添加评论与统计功能","category":"share","tags":["博客"],"status":"published","link":"NA","date created":"2024-03-24 Sun 17:55:29","date modified":"2024-03-24 Sun 18:41:16","dg-publish":true,"permalink":"/Blog/Share/给 Obsidian Digital Garden 添加评论与统计功能/","dgPassFrontmatter":true}
+{"aliases":"给 Obsidian Digital Garden 添加评论与统计功能","category":"share","tags":["博客"],"status":"published","link":"NA","date created":"2024-03-24 Sun 17:55:29","date modified":"2024-03-24 Sun 18:41:16","dg-publish":true,"permalink":"/Blog/Share/给 Obsidian Digital Garden 添加评论与统计功能/","dgPassFrontmatter":true,"created":"2024-03-24 Sun 17:55:29","updated":"2024-03-24 Sun 18:41:16"}
 ---
 
 在 [[Blog/Share/基于Obsidian发布静态博客\|基于Obsidian发布静态博客]] 提到过这个博客当前是基于 ODG 插件发布的。最近闲着基于 ODG 提供的 [自定义组件功能](https://dg-docs.ole.dev/advanced/adding-custom-components/) 给博客增加了评论和访客统计功能。
