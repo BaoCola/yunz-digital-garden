@@ -1,5 +1,5 @@
 ---
-{"aliases":"Weekly","date created":"2024-02-21 Wed 19:37:53","date modified":"2024-04-01 Mon 07:08:23","dg-publish":true,"permalink":"/Guide/Weekly/","dgPassFrontmatter":true}
+{"aliases":"Weekly","date created":"2024-02-21 Wed 19:37:53","date modified":"2024-04-01 Mon 07:08:23","dg-publish":true,"permalink":"/Guide/Weekly/","dgPassFrontmatter":true,"created":"2024-02-21 Wed 19:37:53","updated":"2024-04-01 Mon 07:08:23"}
 ---
 
 
