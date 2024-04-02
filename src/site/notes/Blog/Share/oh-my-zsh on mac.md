@@ -1,5 +1,5 @@
 ---
-{"aliases":"oh-my-zsh on mac","category":"tools","tags":["mac","oh-my-zsh"],"status":"published","link":"NA","date created":"2023-01-08 Sun 22:37:45","date modified":"2024-02-21 Wed 20:00:59","dg-publish":true,"permalink":"/Blog/Share/oh-my-zsh on mac/","dgPassFrontmatter":true,"created":"2023-01-08 Sun 22:37:45","updated":"2024-02-21 Wed 20:00:59"}
+{"aliases":"oh-my-zsh on mac","category":"tools","tags":["mac","oh-my-zsh"],"status":"published","link":"NA","date created":"2023-01-08 Sun 22:37:45","date modified":"2024-02-21 Wed 20:00:59","dg-publish":true,"permalink":"/Blog/Share/oh-my-zsh on mac/","dgPassFrontmatter":true,"created":"2023-01-08T22:37:45.000+08:00","updated":"2024-02-21T20:01:00.414+08:00"}
 ---
 
 
