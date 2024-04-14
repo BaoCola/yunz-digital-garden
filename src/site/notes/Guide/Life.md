@@ -1,5 +1,5 @@
 ---
-{"aliases":"Life","date created":"2024-02-21 Wed 19:33:18","date modified":"2024-02-25 Sun 15:25:56","dg-publish":true,"permalink":"/Guide/Life/","dgPassFrontmatter":true,"created":"2024-02-21T19:33:18.629+08:00","updated":"2024-04-01T07:09:08.371+08:00"}
+{"aliases":"Life","date created":"2024-02-21 Wed 19:33:18","date modified":"2024-02-25 Sun 15:25:56","dg-publish":true,"permalink":"/Guide/Life/","dgPassFrontmatter":true,"noteIcon":"1","created":"2024-02-21T19:33:18.629+08:00","updated":"2024-04-01T07:09:08.371+08:00"}
 ---
 
 
