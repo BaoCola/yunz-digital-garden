@@ -1,5 +1,5 @@
 ---
-{"aliases":"Home","date created":"2022-12-21 Wed 23:21:51","date modified":"2024-04-02 Tue 21:15:10","dg-home":true,"dg-publish":true,"permalink":"/Home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2022-12-21T23:21:51.000+08:00","updated":"2024-04-02T21:15:12.788+08:00"}
+{"aliases":"Home","date created":"2022-12-21 Wed 23:21:51","date modified":"2024-04-02 Tue 21:15:10","dg-home":true,"dg-publish":true,"permalink":"/Home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"1","created":"2022-12-21T23:21:51.000+08:00","updated":"2024-04-02T21:15:12.788+08:00"}
 ---
 
 
